@@ -1,2 +1,3 @@
-# odin-recipes
-The Odin Project's Foundations Course Project: Recipes
+# Odin Recipes
+
+TOP's Foundation course project: a simple basic recipe website showcasing some of my country dishes.
